@@ -8,3 +8,5 @@ Shortcuts I would like to start using:
 - Win-D (show desktop)
 - Win + L (Lock Windows computer)
 - Win + PrtScn (Take a screenshot of the screen and save it to the Pictures folder in your home folder.)
+
+- [CLI commands](docs/cli.md)
